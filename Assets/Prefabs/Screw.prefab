@@ -51,7 +51,7 @@ PrefabInstance:
     - target: {fileID: 262674842546809036, guid: 01548371c6d290f469ba116fddebc1b7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1ef2f47ca54264842b9b5679baf3580b, type: 2}
+      objectReference: {fileID: 2100000, guid: d0cfc48bebe35cb4c81638c8bcdd01d1, type: 2}
     - target: {fileID: 919132149155446097, guid: 01548371c6d290f469ba116fddebc1b7, type: 3}
       propertyPath: m_Name
       value: Screw

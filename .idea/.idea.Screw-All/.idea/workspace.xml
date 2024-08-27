@@ -6,23 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="31d8ce53-b07e-406a-9c3e-333a52f6336d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Screw-All/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Screw-All/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Full Figure (4).prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Full Figure (4).prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/GameManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/GameManager.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Hole (4).prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Hole (4).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Black.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Black.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Hole.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Hole.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Screw.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Screw.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test Scene 1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test Scene 1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test Scene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test Scene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test/GameManagerSingleton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test/GameManagerSingleton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test/HoleMechanic.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test/HoleMechanic.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test/ScrewMechanic.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Test/ScrewMechanic.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test Scene 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Test Scene 2.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +93,9 @@
       <updated>1724425481142</updated>
       <workItem from="1724425481655" duration="590000" />
       <workItem from="1724569019119" duration="136000" />
-      <workItem from="1724656085124" duration="13152000" />
+      <workItem from="1724656085124" duration="13835000" />
+      <workItem from="1724748927170" duration="1205000" />
+      <workItem from="1724760044217" duration="2014000" />
     </task>
     <servers />
   </component>
