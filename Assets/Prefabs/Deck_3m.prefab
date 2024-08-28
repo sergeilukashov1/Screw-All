@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3058992999499755074}
   - component: {fileID: 4484154897564023412}
   - component: {fileID: 4335513075940121365}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deck_3m
   m_TagString: Untagged
   m_Icon: {fileID: 0}

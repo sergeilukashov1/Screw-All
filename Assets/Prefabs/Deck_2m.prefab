@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7797453612814468392}
   - component: {fileID: 3588834243957105997}
   - component: {fileID: 2327551277378863978}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deck_2m
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1807995465815882727}
   - component: {fileID: 7919353727906722412}
   - component: {fileID: 7632972839280885058}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Elipse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
